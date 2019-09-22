@@ -1,9 +1,8 @@
-Hey there, I am Keysang.
+# Hey there, I am Keysang.
+## CSE 2nd Year
 
-:smile:
+<again> :flushed:
 
-<again>
-
-Here to learn git for real this time.
+Here to learn git for **real** this time.
 
 I hope it works out for me this time. :P

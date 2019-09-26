@@ -1,9 +1,9 @@
 
-# *  **ATTENDANCE LIST FOR PCLUB MEMBERS** *
+#  **ATTENDANCE LIST FOR PCLUB MEMBERS**
 
 __STUDENT NAME__ |__BRANCH__|__SIGNATURE__
------------------|----------|--------------
-NAVEEN | CSE | P
+|:---------------|:---------|:-------------
+NAVEEN | CSE | 
 
   
 
